@@ -1,0 +1,4 @@
+#Wed Sep 23 21:45:31 BRT 2020
+base.0=/Users/ezefranca/Desktop/Projetos/Tracking-Cube/Tracking Cube/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

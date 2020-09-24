@@ -1,0 +1,6 @@
+b2cb51a7f8eb4c22a523d8dd717d6dfc|Assets/Cubo/Back02.jpg
+727db514c080450bbeeffd8cba5d1cdc|Assets/Cubo/Bottom02.jpg
+97f9d73ebdd04a5db2dcd6ef16442bdb|Assets/Cubo/Front02.jpg
+cbd58489b5064779b61af79e29435432|Assets/Cubo/Left02.jpg
+a62017e6a71d4f4992d95bd381bc04bc|Assets/Cubo/Rigth02.jpg
+4de6d6ac1a5547adb4145523f3d53155|Assets/Cubo/Top02.jpg
